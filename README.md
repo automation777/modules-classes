@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sshserver
 
 #### Table of Contents
@@ -81,3 +82,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# modules-classes
+>>>>>>> 6700cb39337f80c17ffbf3d6a2e4a85c74da4ec4
